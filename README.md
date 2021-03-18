@@ -1,5 +1,5 @@
 ### Hi there :shipit:
-### I'm a Computer Scientist with interest in Functinoal Programming and Data Engineering.
+### I'm a Computer Scientist with interest in Functional Programming and Data Engineering.
 
 Programming Languages:
 - Haskell, Kotlin, Python, Rust, Java, LaTeX.
