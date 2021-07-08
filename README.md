@@ -5,10 +5,14 @@
 - :school: I'm pursuing my Bachelor's Degree diploma in C.S. Hopefully graduating very soon.
 - :heart: Programming languages I'd love to work with: **Rust**, **Hakell**, Go and Scala.
 - :nerd_face: Interested in: **Funcional programing**, High performance computing, Data Engineering, System Design, Algorithm analysis, design and implementation, and last but not least, Discrete Mathematics.
-- :pensive: Since right now I'm short of time, I'm don't have too much time to be as curious and read a lot as I would like...
+- :pensive: Since (right now) I'm short of time, I don't have too much time to be as curious and read a lot as I would like...
 
 
 TODO: Add more info about myself 😅.
+
+
+<img align="middle" height="250" src="https://user-images.githubusercontent.com/11308292/124855951-57109300-df6f-11eb-9f71-b0a2e897a35e.png" />
+
 
 <!--
 **angelgladin/angelgladin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
