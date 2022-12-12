@@ -1,12 +1,10 @@
 ### Hi there :shipit:
 ### I'm a Computer Scientist with interest in Functional Programming and Data Engineering.
 
-- :construction_worker: Currently working as Android developer using Android Jetapck.
+- :construction_worker: Currently working as Android developer using Android Jetpack.
 - :school: I'm pursuing my Bachelor's Degree diploma in C.S. Hopefully graduating very soon.
 - :heart: Programming languages I'd love to work with: **Rust**, **Hakell**, Go and Scala.
 - :nerd_face: Interested in: **Funcional programing**, High performance computing, Data Engineering, System Design, Algorithm analysis, design and implementation, and last but not least, Discrete Mathematics.
-- :pensive: Since (right now) I'm short of time, I don't have too much time to be as curious and read a lot as I would like...
-
 
 TODO: Add more info about myself 😅.
 
