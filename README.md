@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a [ `Software Engineer` | [`Computer Scientist`] ],
+I'm a [ `Software Engineer` | `Computer Scientist` ],
 - Experienced: [Android Jetpack](https://developer.android.com/jetpack), [Ktor](https://ktor.io/) and [Kotlin](https://kotlinlang.org/) ecosystem.
 - Interested in: Functional Programming, Data Engineering, Algorithms \& Data Structures
 
