@@ -7,7 +7,7 @@ I love teaching (especially) science to people, no matter what their background 
 
 > If you can't explain an idea to an 8-year-old, you don't understand it.
 
-- Experienced: [Android Jetpack](https://developer.android.com/jetpack), [Ktor](https://ktor.io/) and [Kotlin](https://kotlinlang.org/) ecosystem.
+- Experienced: [Android Jetpack](https://developer.android.com/jetpack) and [Kotlin](https://kotlinlang.org/) ecosystem.
 - Interested in: Functional Programming, Data Engineering, Data Science.
 
 ## About me (not technical stuff)
@@ -26,6 +26,7 @@ Besides of that, I love animals and nature.
   - [`rustlings`](https://github.com/rust-lang/rustlings)
   - [Elixir Programming Language](https://elixir-lang.org/)
   - [MongoDB](https://www.mongodb.com/)
+  - [Ktor](https://ktor.io/)
   - **Lot of LeetCode problems**
   - [Web3](https://en.wikipedia.org/wiki/Web3)
 
